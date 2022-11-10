@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chaitanya3107
-- 👀 I’m interested in java and app development 
+- 👀 I’m interested in web and app development 
 - 🌱 I’m currently learning java and c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
