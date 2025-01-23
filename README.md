@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chaitanya3107
+- 👋 Hi, I’m Chaitanya
 - 👀 I’m interested app development 
 - 🌱 I’m have experience of java, c, c++ along with flutter
 
