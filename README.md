@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chaitanya
-- 👀 I’m interested app development 
+- 👀 I’m interested backend development 
 - 🌱 I’m have experience of java, c, c++ along with flutter
 
  <!---
